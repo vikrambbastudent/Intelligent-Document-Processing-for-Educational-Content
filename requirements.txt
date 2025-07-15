@@ -1,0 +1,7 @@
+psycopg2-binary
+matplotlib
+Pillow
+unstructured
+google-generativeai
+nltk
+tenacity
